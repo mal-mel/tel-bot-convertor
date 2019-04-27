@@ -1,6 +1,6 @@
-.idea/
-.pytest_cache/
+.idea
+.pytest_cache
 .python-version
-__pycache__/
+__pycache__
 *.py[co]
 read.me
